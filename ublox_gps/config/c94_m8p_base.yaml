@@ -56,8 +56,8 @@ dat:
 
 # GNSS Config
 gnss:
-  glonass: true             # Supported by C94-M8P
-  beidou: false             # Supported by C94-M8P
+  glonass: false             # Supported by C94-M8P
+  beidou: true            # Supported by C94-M8P
   qzss: false               # Supported by C94-M8P
 
 inf: 
